@@ -1,0 +1,112 @@
+.gradient-background {
+    background-size: 180% 180%;
+    margin-top: 0px;
+  }
+.h1{
+font-family: 'Bebas Neue', sans-serif;
+margin-top: ;
+padding: 0px;
+color: beige;
+}  
+.lead{
+    font-family: 'Bebas Neue', sans-serif;
+    color: aliceblue;
+}
+.profile-img { 
+    text-align: center;
+    border-radius: 50%;
+    height: 200px;
+    
+
+  }
+  h2 {
+    color: #404545;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-top: 30px;}
+    .container1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh; 
+      }
+      .profile {
+        text-align: center;
+      }
+      
+      .profile-img {
+        width: 200px; 
+        height: auto;
+        margin: 0 auto;
+        display: block;}
+        .d-block{
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+        }
+        .section1 {
+          background:#9ccaf5;
+           
+            padding: 100px 0; 
+          }
+      
+          .img1 {
+            max-width: 100%; 
+          }
+          .img-fluid{
+            padding-top: 0px;
+            padding-left: 0px;
+            margin-top: 0px;
+            border:0;
+            border-radius: 00px;
+          }
+          .sk{ color: #2480d7;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh;
+
+
+          }
+          .sk1{ 
+            color:#46B3E6;
+            height: 20vh;
+            
+            
+          }
+          .im2{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
+          
+          .btn{
+            background-color: #46B3E6;
+            color:#ebedee ;
+          }
+          .footer-link{ 
+            
+          
+            
+            
+          
+            justify-content: center;
+
+          }
+          .copyright{
+            margin-top: 10px;
+            display: block;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+          }
+          .bottom-container{
+             background-color:#9ccaf5;
+            
+          
+          }
+
+          .footer{
+          : #46B3E6;
+          }
